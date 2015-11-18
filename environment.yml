@@ -1,0 +1,40 @@
+name: intro_python
+channels:
+  - ioos
+  - r
+dependencies:
+  - python=2.7
+  - basemap
+  - cartopy
+  - ctd
+  - descartes
+  - fiona
+  - folium
+  - gdal
+  - geojson
+  - geojsonio
+  - geopandas
+  - gsw
+  - jupyter
+  - iris
+  - matplotlib
+  - numpy
+  - oceans
+  - oct2py
+  - pandas
+  - pip
+  - pyproj
+  - pywafo
+  - rasterio
+  - requests
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+  - statsmodels
+  - sympy
+  - xlrd
+  - xray
+  - fortran-magic
+  - r-essentials
+  - rpy2
