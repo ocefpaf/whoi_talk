@@ -1,7 +1,7 @@
 name: intro_python
 channels:
-  - ioos
   - r
+  - ioos
 dependencies:
   - python=2.7
   - basemap
@@ -36,5 +36,6 @@ dependencies:
   - xlrd
   - xray
   - fortran-magic
-  - r-essentials
   - rpy2
+  - r-essentials
+  - r-oce
